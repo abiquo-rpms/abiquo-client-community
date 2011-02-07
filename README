@@ -1,0 +1,5 @@
+Updating package sources from upstream WAR:
+
+rake update_war[am,1.7,1.7-SNAPSHOT]
+
+where am is the WAR name (am, client-premium, server, etc), 1.7 is the Abiquo release version and 1.7-SNAPSHOT is the hudson /opt/releases path of the release (i.e. /opt/releases/1.7-SNAPSHOT)
